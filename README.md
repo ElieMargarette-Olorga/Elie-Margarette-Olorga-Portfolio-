@@ -2,7 +2,7 @@
 
 Hello! I am Elie Margarette Olorga, a computer engineering student. 
 
-#Section 
+# Section 
 CE3A 
 
 this portfolio contains my project, research, and activities related to: 
