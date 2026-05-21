@@ -12,7 +12,7 @@ CE3A
 
 # Skills 
 - c++
--basic phyton 
+- basic phyton 
 - networking 
 
 # Goal 
