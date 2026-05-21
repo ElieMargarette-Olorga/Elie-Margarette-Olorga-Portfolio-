@@ -2,9 +2,6 @@
 
 Hello! I am Elie Margarette Olorga, a computer engineering student. 
 
-# Section 
-CE3A 
-
 this portfolio contains my project, research, and activities related to: 
 - Networking 
 - Programming 
@@ -15,5 +12,5 @@ this portfolio contains my project, research, and activities related to:
 -basic phyton 
 - networking 
 
-#Goal 
+# Goal 
 to capture my skills, academic project, and knowledge. 
