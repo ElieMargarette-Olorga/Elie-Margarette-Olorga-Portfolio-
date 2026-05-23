@@ -23,7 +23,7 @@ to capture my skills, academic project, and knowledge.
 # Featured Projects 
 1. Building Mini Amplifier using LM386
    - a popular choice for low-power audio. This circuit is compact, efficient, and beginner-friendly that delivers practical knowledge and a functional audio device.
- Components
+ # Components
     - LM386
     - Capacitor
     - Resistor
@@ -37,20 +37,20 @@ to capture my skills, academic project, and knowledge.
 
 2. Bato-bato Pick Game
    - A popular Filipino hand game layers say “Bato, bato, pick!” while shaking their fists, then quickly show one of three hand signs: bato (rock), papel (paper), or gunting (scissors).
-Technology Used
+# Technology Used
     - Phyton Compiler
    <img width="1626" height="768" alt="Screenshot 2026-05-23 073733" src="https://github.com/user-attachments/assets/50b48bd3-bdb6-44db-9c93-da759532054d" />
  
 3. Online Shopping Diagram
    - a visual representation that shows the process of buying products through an online store or e-commerce website.
-Technology Used
+# Technology Used
     - Draw IO
 <img width="1914" height="1024" alt="Screenshot 2026-05-23 075117" src="https://github.com/user-attachments/assets/3293d2d0-c6a4-4d01-9b60-2f905ba1b25c" />
 
 4. ALU (Arithmetic Logic Unit) Ciruit
    - Arithmetic Logic Unit (ALU) is a digital circuit in a computer or processor that performs arithmetic operations and logical operations on binary numbers.
    - ALU is created using a Full Adder, 2-to-4 Decoder, and 4-to-1 Multiplexer (MUX), each component has a specific function in controlling and processing data.
-Components
+# Components
    - Logic Gates (AND, OR, XOR, NOT)
    - Input switches
    - Wires/connectors
